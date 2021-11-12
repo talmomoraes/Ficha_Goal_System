@@ -41,7 +41,7 @@ Melee Attack +2H;4;0;0;0;0;0;0;0
 Melee Attack +2S;4;0;0;0;0;0;0;0
 Melee Attack Curto;3;0;0;0;0;0;0;0
 Melee Attack Longo;7;0;0;0;0;0;0;0
-Melee Attack Médio;5;0;0;0;0;0;0;0
+Melee Attack Medio;5;0;0;0;0;0;0;0
 Mind Blast;10;0;0;0;0;0;0;0
 Multi-Limbed;10;0;0;0;0;0;0;1
 Pack Fighter;1;0;0;0;0;0;0;0
