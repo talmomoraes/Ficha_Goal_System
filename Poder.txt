@@ -1,84 +1,84 @@
-Amorphous;2;0;0;0;0;0;0;0;0;0;;;
-Aquatic;2;0;0;0;0;0;0;0;0;0;;;
-Armor Heavy;6;0;0;1;2;0;0;0;0;0;;;
-Armor Light;2;0;0;0;1;0;0;0;0;0;;;
-Armor Medium;4;0;0;1;1;0;0;0;0;0;;;
-Bloodlust;-2;0;0;0;0;0;0;0;0;0;;;
-Brain Suck;5;0;0;0;0;0;0;0;0;0;;;
-Breath Weapon Large;25;0;0;0;0;0;0;0;0;0;;;
-Breath Weapon Small;20;0;0;0;0;0;0;0;0;0;;;
-Burrowing;10;0;0;0;0;0;0;0;0;0;;;
-Contacts;2999;0;0;0;0;0;0;0;0;0;;;
-Curse;10;0;0;0;0;0;0;0;0;0;;;
-Dark Vision;2;0;0;0;0;0;0;0;0;0;;;
-Deadly 1;3;1;0;0;0;0;0;0;0;0;;;
-Deadly 2;6;2;0;0;0;0;0;0;0;0;;;
-Deadly 3;9;3;0;0;0;0;0;0;0;0;;;
-Death Touch;20;0;0;0;0;0;0;0;0;1;;;
-Energy Drain;20;0;0;0;0;0;0;0;0;1;;;
-Entrap;10;0;0;0;0;0;0;0;0;0;;;
-Evasion 1;2;0;0;1;0;0;0;0;0;0;;;
-Evasion 2;4;0;0;2;0;0;0;0;0;0;;;
-Extra Attack;10;0;0;0;0;0;0;0;0;1;;;
-Fast Reflexes;1;0;0;0;0;0;0;2;0;0;;;
-Fated 1;10;0;0;0;0;0;0;0;3;1;;;
-Fated 2;20;0;0;0;0;0;0;0;6;2;;;
-First to Fight;2;0;0;0;0;0;0;0;0;0;;;
-Floater;5;0;0;0;0;0;0;0;0;0;;;
-Flying;10;0;0;0;0;0;0;0;0;0;;;
-Gaseous Form;15;0;0;0;0;0;0;0;0;0;;;
-Hideous Strength 1;3;0;1;0;0;0;0;0;0;0;;;
-Hideous Strength 2;5;0;2;0;0;0;0;0;0;0;;;
-Insubstantial;6;0;0;0;0;0;0;0;0;0;;;
-Invisibility;20;0;0;0;0;0;0;0;0;1;;;
-Life Drain;10;0;0;0;0;0;0;0;0;1;;;
-Lone Threat 1;15;0;0;0;0;0;0;0;0;1;;;
-Lone Threat 2;30;0;0;0;0;0;0;0;0;2;;;
-Low Morale;-2;0;0;0;0;0;0;0;0;0;;;
-Magic Suppression;20;0;0;0;0;0;0;0;0;0;;;
-Melee Attack +1H;2;0;0;0;0;0;0;0;0;0;;;
-Melee Attack +1S;2;0;0;0;0;0;0;0;0;0;;;
-Melee Attack +2H;4;0;0;0;0;0;0;0;0;0;;;
-Melee Attack +2S;4;0;0;0;0;0;0;0;0;0;;;
-Melee Attack Curto;3;0;0;0;0;0;0;0;0;0;;;
-Melee Attack Longo;7;0;0;0;0;0;0;0;0;0;;;
-Melee Attack Médio;5;0;0;0;0;0;0;0;0;0;;;
-Mind Blast;10;0;0;0;0;0;0;0;0;0;;;
-Multi-Limbed;10;0;0;0;0;0;0;0;0;1;;;
-Pack Fighter;1;0;0;0;0;0;0;0;0;0;;;
-Petrification Close Combat;15;0;0;0;0;0;0;0;0;0;;;
-Petrification Ranged;25;0;0;0;0;0;0;0;0;0;;;
-Preternatural Quickness;5;0;0;0;0;0;0;0;0;0;;;
-Ranged Attack;11;0;0;0;0;0;0;0;0;0;;;
-Ranged Attack +1;13;0;0;0;0;0;0;0;0;0;;;
-Ranged Attack +2;15;0;0;0;0;0;0;0;0;0;;;
-Regeneration;10;0;0;0;0;0;0;0;0;0;;;
-Severe Damage;10;0;0;0;0;0;0;0;0;1;;;
-Sharp Senses;2;0;0;0;0;0;0;0;0;0;;;
-Size Enormous;19;0;3;0;0;3;12;0;0;0;;;
-Size Large;5;0;1;0;0;1;4;0;0;0;;;
-Size Small;-6;0;-1;0;0;-1;0;0;0;0;;;
-Size Very Large;12;0;2;0;0;2;8;0;0;0;;;
-Slow;-2;0;0;0;0;0;0;0;0;0;;;
-Smother;20;0;0;0;0;0;0;0;0;0;;;
-Sneaky;1;0;0;0;0;0;0;0;0;0;;;
-Spell Steal;15;0;0;0;0;0;0;0;0;0;;;
-Stealth;2;0;0;0;0;0;0;0;0;0;;;
-Swift +1;1;0;0;0;0;1;0;0;0;0;;;
-Swift +2;2;0;0;0;0;2;0;0;0;0;;;
-Swift +3;3;0;0;0;0;3;0;0;0;0;;;
-Tail Attack;1;0;0;0;0;0;0;0;0;0;;;
-Tank;2;0;0;0;0;0;0;0;0;0;;;
-Terrifying Aura TN3;6;0;0;0;0;0;0;0;0;0;;;
-Terrifying Aura TN4;10;0;0;0;0;0;0;0;0;0;;;
-Terrifying Aura TN5;15;0;0;0;0;0;0;0;0;0;;;
-True Name TN+1;-15;0;0;0;0;0;0;0;0;0;;;
-True Name TN+2;-10;0;0;0;0;0;0;0;0;0;;;
-True Name TN+3;-5;0;0;0;0;0;0;0;0;0;;;
-Undead;4;0;0;0;1;0;0;0;0;0;;;
-Vigor +1;1;0;0;0;0;0;1;0;0;0;;;
-Vigor +2;2;0;0;0;0;0;2;0;0;0;;;
-Vigor +3;3;0;0;0;0;0;3;0;0;0;;;
-Vigor +4;4;0;0;0;0;0;4;0;0;0;;;
-Wailing Scream;15;0;0;0;0;0;0;0;0;0;;;
-Wall Walker;5;0;0;0;0;0;0;0;0;0;;;
+Amorphous;2;0;0;0;0;0;0;0;0;0
+Aquatic;2;0;0;0;0;0;0;0;0;0
+Armor Heavy;6;0;0;1;2;0;0;0;0;0
+Armor Light;2;0;0;0;1;0;0;0;0;0
+Armor Medium;4;0;0;1;1;0;0;0;0;0
+Bloodlust;-2;0;0;0;0;0;0;0;0;0
+Brain Suck;5;0;0;0;0;0;0;0;0;0
+Breath Weapon Large;25;0;0;0;0;0;0;0;0;0
+Breath Weapon Small;20;0;0;0;0;0;0;0;0;0
+Burrowing;10;0;0;0;0;0;0;0;0;0
+Contacts;2999;0;0;0;0;0;0;0;0;0
+Curse;10;0;0;0;0;0;0;0;0;0
+Dark Vision;2;0;0;0;0;0;0;0;0;0
+Deadly 1;3;1;0;0;0;0;0;0;0;0
+Deadly 2;6;2;0;0;0;0;0;0;0;0
+Deadly 3;9;3;0;0;0;0;0;0;0;0
+Death Touch;20;0;0;0;0;0;0;0;0;1
+Energy Drain;20;0;0;0;0;0;0;0;0;1
+Entrap;10;0;0;0;0;0;0;0;0;0
+Evasion 1;2;0;0;1;0;0;0;0;0;0
+Evasion 2;4;0;0;2;0;0;0;0;0;0
+Extra Attack;10;0;0;0;0;0;0;0;0;1
+Fast Reflexes;1;0;0;0;0;0;0;2;0;0
+Fated 1;10;0;0;0;0;0;0;0;3;1
+Fated 2;20;0;0;0;0;0;0;0;6;2
+First to Fight;2;0;0;0;0;0;0;0;0;0
+Floater;5;0;0;0;0;0;0;0;0;0
+Flying;10;0;0;0;0;0;0;0;0;0
+Gaseous Form;15;0;0;0;0;0;0;0;0;0
+Hideous Strength 1;3;0;1;0;0;0;0;0;0;0
+Hideous Strength 2;5;0;2;0;0;0;0;0;0;0
+Insubstantial;6;0;0;0;0;0;0;0;0;0
+Invisibility;20;0;0;0;0;0;0;0;0;1
+Life Drain;10;0;0;0;0;0;0;0;0;1
+Lone Threat 1;15;0;0;0;0;0;0;0;0;1
+Lone Threat 2;30;0;0;0;0;0;0;0;0;2
+Low Morale;-2;0;0;0;0;0;0;0;0;0
+Magic Suppression;20;0;0;0;0;0;0;0;0;0
+Melee Attack +1H;2;0;0;0;0;0;0;0;0;0
+Melee Attack +1S;2;0;0;0;0;0;0;0;0;0
+Melee Attack +2H;4;0;0;0;0;0;0;0;0;0
+Melee Attack +2S;4;0;0;0;0;0;0;0;0;0
+Melee Attack Curto;3;0;0;0;0;0;0;0;0;0
+Melee Attack Longo;7;0;0;0;0;0;0;0;0;0
+Melee Attack Médio;5;0;0;0;0;0;0;0;0;0
+Mind Blast;10;0;0;0;0;0;0;0;0;0
+Multi-Limbed;10;0;0;0;0;0;0;0;0;1
+Pack Fighter;1;0;0;0;0;0;0;0;0;0
+Petrification Close Combat;15;0;0;0;0;0;0;0;0;0
+Petrification Ranged;25;0;0;0;0;0;0;0;0;0
+Preternatural Quickness;5;0;0;0;0;0;0;0;0;0
+Ranged Attack;11;0;0;0;0;0;0;0;0;0
+Ranged Attack +1;13;0;0;0;0;0;0;0;0;0
+Ranged Attack +2;15;0;0;0;0;0;0;0;0;0
+Regeneration;10;0;0;0;0;0;0;0;0;0
+Severe Damage;10;0;0;0;0;0;0;0;0;1
+Sharp Senses;2;0;0;0;0;0;0;0;0;0
+Size Enormous;19;0;3;0;0;3;12;0;0;0
+Size Large;5;0;1;0;0;1;4;0;0;0
+Size Small;-6;0;-1;0;0;-1;0;0;0;0
+Size Very Large;12;0;2;0;0;2;8;0;0;0
+Slow;-2;0;0;0;0;0;0;0;0;0
+Smother;20;0;0;0;0;0;0;0;0;0
+Sneaky;1;0;0;0;0;0;0;0;0;0
+Spell Steal;15;0;0;0;0;0;0;0;0;0
+Stealth;2;0;0;0;0;0;0;0;0;0
+Swift +1;1;0;0;0;0;1;0;0;0;0
+Swift +2;2;0;0;0;0;2;0;0;0;0
+Swift +3;3;0;0;0;0;3;0;0;0;0
+Tail Attack;1;0;0;0;0;0;0;0;0;0
+Tank;2;0;0;0;0;0;0;0;0;0
+Terrifying Aura TN3;6;0;0;0;0;0;0;0;0;0
+Terrifying Aura TN4;10;0;0;0;0;0;0;0;0;0
+Terrifying Aura TN5;15;0;0;0;0;0;0;0;0;0
+True Name TN+1;-15;0;0;0;0;0;0;0;0;0
+True Name TN+2;-10;0;0;0;0;0;0;0;0;0
+True Name TN+3;-5;0;0;0;0;0;0;0;0;0
+Undead;4;0;0;0;1;0;0;0;0;0
+Vigor +1;1;0;0;0;0;0;1;0;0;0
+Vigor +2;2;0;0;0;0;0;2;0;0;0
+Vigor +3;3;0;0;0;0;0;3;0;0;0
+Vigor +4;4;0;0;0;0;0;4;0;0;0
+Wailing Scream;15;0;0;0;0;0;0;0;0;0
+Wall Walker;5;0;0;0;0;0;0;0;0;0
