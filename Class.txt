@@ -1,0 +1,45 @@
+Druid - Atavistic;Altered Beast;7
+Druid - Atavistic;Magical Dabbler;3
+Druid - Atavistic;Pathfinder;2
+Druid - Keeper;Boon Companion;15
+Druid - Keeper;Magical Dabbler;3
+Druid - Keeper;Pathfinder;2
+Fighter - Fighting Monk;Counterstrike;10
+Fighter - Fighting Monk;Elusive;3
+Fighter - Fighting Monk;Killing Hands;3
+Fighter - Fighting Monk;Mighty Blow;3
+Fighter - Man-at-Arms;Bodyguard;3
+Fighter - Man-at-Arms;Defensive Fighter;5
+Fighter - Man-at-Arms;Mighty Blow;3
+Fighter - Man-at-Arms;Shield Bash;5
+Fighter - Spearmen;Mighty Blow;3
+Fighter - Spearmen;Spear Mastery;6
+Fighter - Spearmen;Whirling Defense;5
+Fighter - Wild Slayer;Armor of Anger;5
+Fighter - Wild Slayer;Furious Charge;2
+Fighter - Wild Slayer;Mighty Blow;3
+Fighter - Wild Slayer;Slayer’s Advance;3
+Mage - Bard;Magic Songs;10
+Mage - Bard;Magical Dabbler;3
+Mage - Bard;Spell Recharge;3
+Mage - Wizard;Arcane Student;10
+Mage - Wizard;Bookish;-3
+Mage - Wizard;Combat Magic;10
+Mage - Wizard;Price of Power;-3
+Mage - Wizard;Spell Recharge;3
+Priest - Cleric;Divine Power;6
+Priest - Cleric;Healer;5
+Priest - Cleric;Price of Power;-3
+Priest - Cleric;Turn or Rebuke Undead;5
+Priest - Paladin;Balm of Faith;3
+Priest - Paladin;Hearten Allies;7
+Ranger - Archer;Bow Mastery;10
+Ranger - Archer;Use Cover;2
+Ranger - Bladesman;Dual Weapon Mastery;10
+Ranger - Bladesman;Use Cover;2
+Thief - Acrobat;Dirty Strike;3
+Thief - Acrobat;Spider-Climb;3
+Thief - Acrobat;Tumbler;6
+Thief - Assassin;Assassin’s Mark;6
+Thief - Assassin;Dirty Strike;3
+Thief - Assassin;Poison;5
