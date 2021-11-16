@@ -1,28 +1,28 @@
-Chainmail;2
-Large Shield;4
-Partial Platemail;3
-Platemail;4
-Small Shield;2
-Studded Leather;1
-Axe;2
-Dagger/Knife;1
-Chain Weapon;5
-Flail;2
-Great Sword;4
-Great Axe;5
-Large Weapon;6
-Mace/Warhammer;3
-Quarterstaff;2
-Shillelagh;3
-Spear;4
-Sword;2
-Whip;4
-Bow;11
-Crossbow;15
-Great Bow;14
-Javelins;5
-Throwing Axe;7
-Torches;1
-Rod or Wand;2
-Rope and Grapnel;2
-Thief’s Tools;1
+Chainmail;2;0;0;0;0;0;0;0;0;0;+1D Toughness;Body Armor;Uncommon
+Large Shield;4;0;0;0;0;0;0;0;0;0;+2D Defense, -1” Move;Shield;Uncommon
+Partial Platemail;3;0;0;0;0;0;0;0;0;0;+1D Toughness, +1D Defense, -1” Move;Body Armor;Uncommon
+Platemail;4;0;0;0;0;0;0;0;0;0;+2D Toughness, +1D Defense, -2” Move;Body Armor;Rare
+Small Shield;2;0;0;0;0;0;0;0;0;0;+1D Defense;Shield;Common
+Studded Leather;1;0;0;0;0;0;0;0;0;0;+1 Re-roll to Toughness;Body Armor;Common
+Axe;2;0;0;0;0;0;0;0;0;0;+1D Strength;1H CC;Common
+Dagger/Knife;1;0;0;0;0;0;0;0;0;0;+1 ATT Re-roll;1H;Common
+Chain Weapon;5;0;0;0;0;0;0;0;0;0;" +1 ATT Re-roll; Nega Small Shields, 2” Reach, +1D Trip";2H CC;Uncommon
+Flail;2;0;0;0;0;0;0;0;0;0;" +1 ATT Re-roll; Nega Small Shields";1H CC;Uncommon
+Great Sword;4;0;0;0;0;0;0;0;0;0;+1D ATT, +1D DEF;2H CC;Uncommon
+Great Axe;5;0;0;0;0;0;0;0;0;0;+2D Strength, +1D on Drive-Backs;2H CC;Uncommon
+Large Weapon;6;0;0;0;0;0;0;0;0;0;+3D Strength, Large Models Only;2H CC;Rare
+Mace/Warhammer;3;0;0;0;0;0;0;0;0;0;+1D ATT, +1D Damage vs. Undead;1H CC;Common
+Quarterstaff;2;0;0;0;0;0;0;0;0;0;+1D DEF or +1D ATT (decidido a cada turno);2H CC;Common
+Shillelagh;3;0;0;0;0;0;0;0;0;0;+1D damage (+1D[1] Re-roll for Druids);1H CC;Common
+Spear;4;0;0;0;0;0;0;0;0;0;+1D ATT, +1D DEF, +1D to Trip Maeuvers;2H CC;Common
+Sword;2;0;0;0;0;0;0;0;0;0;+1D ATT;1H CC;Common
+Whip;4;0;0;0;0;0;0;0;0;0; +1D ATT, +2D to Trip, -1d damage, Reach 2”;1H CC;Uncommon
+Bow;11;0;0;0;0;0;0;0;0;0;15”, 4D damage;Rng;Common
+Crossbow;15;0;0;0;0;0;0;0;0;0;20”, 6D damage, Slow Reload (dispara a cada 2 turnos);Rng;Uncommon
+Great Bow;14;0;0;0;0;0;0;0;0;0;20”, 5D damage;Rng;Uncommon
+Javelins;5;0;0;0;0;0;0;0;0;0;Strength + 5” range, Strength damage;Rng;Common
+Throwing Axe;7;0;0;0;0;0;0;0;0;0;CC +1 ATT Re-roll, Ranged Strg + 2”, Strg +1D damage;Dual;Common
+Torches;1;0;0;0;0;0;0;0;0;0;Ilumina uma área a até 5 ”de sua base.;Encumberance;Common
+Rod or Wand;2;0;0;0;0;0;0;0;0;0; + 1D Hab para magia.;Encumberance;Uncommon
+Rope and Grapnel;2;0;0;0;0;0;0;0;0;0;O Personagem pode subir e descer um local intransponível.;Encumberance;Common
+Thief Tools;1;0;0;0;0;0;0;0;0;0; +1 Re-roll HAB contra Dungeon e City Adventure Challenges.;Encumberance;Uncommon
