@@ -1,45 +1,140 @@
-Druid - Atavistic;Altered Beast;7
-Druid - Atavistic;Magical Dabbler;3
-Druid - Atavistic;Pathfinder;2
-Druid - Keeper;Boon Companion;15
-Druid - Keeper;Magical Dabbler;3
-Druid - Keeper;Pathfinder;2
-Fighter - Fighting Monk;Counterstrike;10
-Fighter - Fighting Monk;Elusive;3
-Fighter - Fighting Monk;Killing Hands;3
-Fighter - Fighting Monk;Mighty Blow;3
-Fighter - Man-at-Arms;Bodyguard;3
-Fighter - Man-at-Arms;Defensive Fighter;5
-Fighter - Man-at-Arms;Mighty Blow;3
-Fighter - Man-at-Arms;Shield Bash;5
-Fighter - Spearmen;Mighty Blow;3
-Fighter - Spearmen;Spear Mastery;6
-Fighter - Spearmen;Whirling Defense;5
-Fighter - Wild Slayer;Armor of Anger;5
-Fighter - Wild Slayer;Furious Charge;2
-Fighter - Wild Slayer;Mighty Blow;3
-Fighter - Wild Slayer;Slayer�s Advance;3
-Mage - Bard;Magic Songs;10
-Mage - Bard;Magical Dabbler;3
-Mage - Bard;Spell Recharge;3
-Mage - Wizard;Arcane Student;10
-Mage - Wizard;Bookish;-3
-Mage - Wizard;Combat Magic;10
-Mage - Wizard;Price of Power;-3
-Mage - Wizard;Spell Recharge;3
-Priest - Cleric;Divine Power;6
-Priest - Cleric;Healer;5
-Priest - Cleric;Price of Power;-3
-Priest - Cleric;Turn or Rebuke Undead;5
-Priest - Paladin;Balm of Faith;3
-Priest - Paladin;Hearten Allies;7
-Ranger - Archer;Bow Mastery;10
-Ranger - Archer;Use Cover;2
-Ranger - Bladesman;Dual Weapon Mastery;10
-Ranger - Bladesman;Use Cover;2
-Thief - Acrobat;Dirty Strike;3
-Thief - Acrobat;Spider-Climb;3
-Thief - Acrobat;Tumbler;6
-Thief - Assassin;Assassin�s Mark;6
-Thief - Assassin;Dirty Strike;3
-Thief - Assassin;Poison;5
+Druid - Atavistic;1;;1;3;;;;;12;Altered Beast, Magical Dabbler, Pathfinder
+Druid - Atavistic;2;1;;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point
+Druid - Atavistic;3;;;1;;;;;5;+1 Fate, *Class bump
+Druid - Atavistic;4;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Druid - Atavistic;5;;;1;;;;;5;+1 Fate
+Druid - Atavistic;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Druid - Atavistic;7;;;1;;;;;5;+1 Fate
+Druid - Atavistic;8;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Druid - Atavistic;9;;;;;;;;5;*Class bump
+Druid - Atavistic;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Druid - Keeper;1;;1;3;;;;;20;Boon Companion, Magical Dabbler, Pathfinder
+Druid - Keeper;2;1;;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point
+Druid - Keeper;3;;;1;;;;;5;+1 Fate, *Class bump
+Druid - Keeper;4;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Druid - Keeper;5;;;1;;;;;5;+1 Fate
+Druid - Keeper;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Druid - Keeper;7;;;1;;;;;5;+1 Fate
+Druid - Keeper;8;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Druid - Keeper;9;;;;;;;;5;*Class bump
+Druid - Keeper;10;1;1;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Spell
+Fighter - Fighting Monk;1;;;3;;;2;;19;Counterstrike, Elusive, Killing Hands, Mighty Blow
+Fighter - Fighting Monk;2;1;;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point
+Fighter - Fighting Monk;3;;;1;;;;;5;+1 Fate, *Class bump
+Fighter - Fighting Monk;4;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Fighting Monk;5;;;1;;;;;5;+1 Fate
+Fighter - Fighting Monk;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Fighter - Fighting Monk;7;;;1;;;;;5;+1 Fate
+Fighter - Fighting Monk;8;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Fighting Monk;9;;;;;;;;5;*Class bump
+Fighter - Fighting Monk;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Fighter - Man-at-Arms;1;;;3;;;;;16;Bodyguard, Defensive Fighter, Mighty Blow, Shield Bash
+Fighter - Man-at-Arms;2;1;;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point
+Fighter - Man-at-Arms;3;;;1;;;;;5;+1 Fate, *Class bump
+Fighter - Man-at-Arms;4;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Man-at-Arms;5;;;1;;;;;5;+1 Fate
+Fighter - Man-at-Arms;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Fighter - Man-at-Arms;7;;;1;;;;;5;+1 Fate
+Fighter - Man-at-Arms;8;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Man-at-Arms;9;;;;;;;;5;*Class bump
+Fighter - Man-at-Arms;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Fighter - Spearmen;1;;;3;;;;;14;Mighty Blow, Spear Mastery, Whirling Defense
+Fighter - Spearmen;2;1;;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point
+Fighter - Spearmen;3;;;1;;;;;5;+1 Fate, *Class bump
+Fighter - Spearmen;4;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Spearmen;5;;;1;;;;;5;+1 Fate
+Fighter - Spearmen;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Fighter - Spearmen;7;;;1;;;;;5;+1 Fate
+Fighter - Spearmen;8;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Spearmen;9;;;;;;;;5;*Class bump
+Fighter - Spearmen;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Fighter - Wild Slayer;1;;;3;;;;;13;Armor of Anger, Furious Charge, Mighty Blow, Slayer’s Advance
+Fighter - Wild Slayer;2;1;;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point
+Fighter - Wild Slayer;3;;;1;;;;;5;+1 Fate, *Class bump
+Fighter - Wild Slayer;4;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Wild Slayer;5;;;1;;;;;5;+1 Fate
+Fighter - Wild Slayer;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Fighter - Wild Slayer;7;;;1;;;;;5;+1 Fate
+Fighter - Wild Slayer;8;;;;1;;;3;5;+1D to Hab. +3 Hit Point
+Fighter - Wild Slayer;9;;;;;;;;5;*Class bump
+Fighter - Wild Slayer;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Mage - Bard;1;;1;3;;;;;16;Magic Songs, Magical Dabbler, Spell Recharge
+Mage - Bard;2;1;1;;;;;;5;+1 Re-roll to Hab, New Spell.
+Mage - Bard;3;;1;;;;;;5;New Spell, *Class bump
+Mage - Bard;4;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New Spell.
+Mage - Bard;5;;1;;;;;;5;New Spell.
+Mage - Bard;6;1;1;;;;;1;5;+1 Re-roll H. +1 HP, New Spell, Class bump
+Mage - Bard;7;;;1;;;;;5;+1 Fate
+Mage - Bard;8;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Mage - Bard;9;;;;;;;;5;*Class bump
+Mage - Bard;10;1;1;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, New Spell
+Mage - Wizard;1;;3;2;;-1;;;17;Arcane Student, Bookish, Combat Magic , Price of Power, Spell Recharge
+Mage - Wizard;2;1;1;;;;;;5;+1 Re-roll to Hab, New Spell.
+Mage - Wizard;3;;1;;;;;;5;New Spell, *Class bump
+Mage - Wizard;4;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New Spell.
+Mage - Wizard;5;;1;;;;;;5;New Spell.
+Mage - Wizard;6;1;1;;;;;1;5;+1 Re-roll H. +1 HP, New Spell, Class bump
+Mage - Wizard;7;;;1;;;;;5;+1 Fate
+Mage - Wizard;8;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Mage - Wizard;9;;;;;;;;5;*Class bump
+Mage - Wizard;10;1;1;;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, New Spell
+Priest - Cleric;1;;2;2;;;;;13;Divine Power, Healer, Price of Power, Turn or Rebuke Undead
+Priest - Cleric;2;1;1;;;;;;5;+1 Re-roll to Hab, New Spell.
+Priest - Cleric;3;;;1;;;;;5;New Spell, *Class bump
+Priest - Cleric;4;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New Spell.
+Priest - Cleric;5;;1;;;;;;5;New Spell.
+Priest - Cleric;6;1;1;;;;;1;5;+1 Re-roll H. +1 HP, New Spell, Class bump
+Priest - Cleric;7;;;1;;;;;5;+1 Fate
+Priest - Cleric;8;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Priest - Cleric;9;;;;;;;;5;*Class bump
+Priest - Cleric;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Priest - Paladin;1;;1;3;;;;;10;Balm of Faith, Hearten Allies
+Priest - Paladin;2;1;1;;;;;;5;+1 Re-roll to Hab, New Spell.
+Priest - Paladin;3;;;1;;;;;5;New Spell, *Class bump
+Priest - Paladin;4;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New Spell.
+Priest - Paladin;5;;1;;;;;;5;New Spell.
+Priest - Paladin;6;1;1;;;;;1;5;+1 Re-roll H. +1 HP, New Spell, Class bump
+Priest - Paladin;7;;;1;;;;;5;+1 Fate
+Priest - Paladin;8;;1;;1;;;1;5;+1D to Hab. +1 Hit Point, New spell
+Priest - Paladin;9;;;;;;;;5;*Class bump
+Priest - Paladin;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Ranger - Archer;1;;;3;;;;;12;Bow Mastery, Use Cover
+Ranger - Archer;2;1;;;;;1;;5;+1 Re-roll to Hab, +1” Move.
+Ranger - Archer;3;;;1;;;;;5;+1 Fate, *Class bump
+Ranger - Archer;4;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Ranger - Archer;5;;;1;;;;;5;+1 Fate
+Ranger - Archer;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Ranger - Archer;7;;;1;;;;;5;+1 Fate
+Ranger - Archer;8;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Ranger - Archer;9;;;;;;;;5;*Class bump
+Ranger - Archer;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Ranger - Bladesman;1;;;3;;;;;12;Dual Weapon Mastery, Use Cover
+Ranger - Bladesman;2;1;;;;;1;;5;+1 Re-roll to Hab, +1” Move.
+Ranger - Bladesman;3;;;1;;;;;5;+1 Fate, *Class bump
+Ranger - Bladesman;4;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Ranger - Bladesman;5;;;1;;;;;5;+1 Fate
+Ranger - Bladesman;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Ranger - Bladesman;7;;;1;;;;;5;+1 Fate
+Ranger - Bladesman;8;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Ranger - Bladesman;9;;;;;;;;5;*Class bump
+Ranger - Bladesman;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Thief - Acrobat;1;;;3;;;;;12;Dirty Strike, Spider-Climb, Tumbler
+Thief - Acrobat;2;1;;;;;1;;5;+1 Re-roll to Hab, +1” Move.
+Thief - Acrobat;3;;;1;;;;;5;+1 Fate, *Class bump
+Thief - Acrobat;4;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Thief - Acrobat;5;;;1;;;;;5;+1 Fate
+Thief - Acrobat;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Thief - Acrobat;7;;;1;;;;;5;+1 Fate
+Thief - Acrobat;8;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Thief - Acrobat;9;;;;;;;;5;*Class bump
+Thief - Acrobat;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
+Thief - Assassin;1;;;3;;;;;14;Assassin’s Mark, Dirty Strike, Poison
+Thief - Assassin;2;1;;;;;1;;5;+1 Re-roll to Hab, +1” Move.
+Thief - Assassin;3;;;1;;;;;5;+1 Fate, *Class bump
+Thief - Assassin;4;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Thief - Assassin;5;;;1;;;;;5;+1 Fate
+Thief - Assassin;6;1;;;;;;1;5;+1 Re-roll to Hab. +1 Hit Point, *Class bump
+Thief - Assassin;7;;;1;;;;;5;+1 Fate
+Thief - Assassin;8;;;;1;;1;1;5;+1D to Hab. +1 Hit Point, +1” Move.
+Thief - Assassin;9;;;;;;;;5;*Class bump
+Thief - Assassin;10;1;;1;;;;1;5;+1 Re-roll to Hab, +1 Hit Point, +1 Fate
