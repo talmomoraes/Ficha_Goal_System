@@ -6,6 +6,6 @@ Monster Fast;30;4;4;4;4;8;6;0;0;0;0;1
 Monster Fast Retainer;18;4;3;3;3;8;3;0;0;0;0;1
 Monster Brute;30;4;4;4;5;6;6;0;0;0;0;1
 Monster Brute Retainer;18;4;3;3;4;6;3;0;0;0;0;1
-Horde Lesser;16;2;2;2;2;6;1;0;0;0;0;1
-Horde Greater;24;3;3;3;3;6;1;0;0;0;0;1
-Horde Superior;32;4;4;4;4;6;1;0;0;0;0;1
+Horde Lesser;16;2;2;2;2;6;5;0;0;0;0;1
+Horde Greater;24;3;3;3;3;6;5;0;0;0;0;1
+Horde Superior;32;4;4;4;4;6;5;0;0;0;0;1
