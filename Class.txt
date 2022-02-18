@@ -1,140 +1,36 @@
-Druid - Atavistic;12;0;0;0;0;0;0;0;3;0;0;1;1;Altered Beast, Magical Dabbler, Pathfinder, 3 FATE
-Druid - Atavistic;5;0;0;0;0;0;1;0;0;0;1;0;2;+1 Re-roll Hab, +1 Hit Point
-Druid - Atavistic;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Druid - Atavistic;5;1;0;0;0;0;1;0;0;1;0;1;4;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Druid - Atavistic;5;0;0;0;1;0;0;0;1;0;0;0;5;+1 Fate, +1 Toug
-Druid - Atavistic;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Druid - Atavistic;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Druid - Atavistic;5;1;0;0;0;0;1;0;0;1;0;1;8;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Druid - Atavistic;5;0;1;0;0;0;0;0;0;0;0;0;9;*Class bump, +1 Strg
-Druid - Atavistic;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Druid - Keeper;20;0;0;0;0;0;0;0;3;0;0;1;1;Boon Companion, Magical Dabbler, Pathfinder, 3 FATE
-Druid - Keeper;5;0;0;0;0;0;1;0;0;0;1;0;2;+1 Re-roll Hab, +1 Hit Point
-Druid - Keeper;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Druid - Keeper;5;1;0;0;0;0;1;0;0;1;0;1;4;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Druid - Keeper;5;0;0;1;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Def
-Druid - Keeper;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Druid - Keeper;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Druid - Keeper;5;1;0;0;0;0;1;0;0;1;0;1;8;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Druid - Keeper;5;0;0;0;1;0;0;0;0;0;0;0;9;*Class bump, +1 Toug
-Druid - Keeper;5;0;0;0;0;0;1;0;0;0;1;1;10;+1 Re-roll Hab, +1 Hit Point, +1 Spell
-Fighter - Fighting Monk;19;0;0;0;0;2;0;0;3;1;0;0;1;Counterstrike, Elusive, Killing Hands, Mighty Blow, 3 FATE
-Fighter - Fighting Monk;5;0;0;0;0;0;1;0;0;0;1;0;2;+1 Re-roll Hab, +1 Hit Point
-Fighter - Fighting Monk;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Fighter - Fighting Monk;5;1;0;0;0;0;3;1;0;1;0;0;4;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Fighting Monk;5;0;0;1;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Def
-Fighter - Fighting Monk;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Fighter - Fighting Monk;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Fighter - Fighting Monk;5;1;0;0;0;0;3;1;0;1;0;0;8;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Fighting Monk;5;0;1;0;0;0;0;0;0;0;0;0;9;*Class bump, +1 Strg
-Fighter - Fighting Monk;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Fighter - Man-at-Arms;16;0;0;0;0;0;0;0;3;0;0;0;1;Bodyguard, Defensive Fighter, Mighty Blow, Shield Bash, 3 FATE
-Fighter - Man-at-Arms;5;0;0;0;0;0;1;0;0;0;1;0;2;+1 Re-roll Hab, +1 Hit Point
-Fighter - Man-at-Arms;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Fighter - Man-at-Arms;5;1;0;0;0;0;3;1;0;1;0;0;4;+1D Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Man-at-Arms;5;0;0;0;1;0;0;0;1;0;0;0;5;+1 Fate, +Toug
-Fighter - Man-at-Arms;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Fighter - Man-at-Arms;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Fighter - Man-at-Arms;5;1;0;0;0;0;3;1;0;1;0;0;8;+1D to Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Man-at-Arms;5;0;1;0;0;0;0;0;0;0;0;0;9;*Class bump, +1 Strg
-Fighter - Man-at-Arms;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Fighter - Spearmen;14;0;0;0;0;0;0;0;3;0;0;0;1;Mighty Blow, Spear Mastery, Whirling Defense, 3 FATE
-Fighter - Spearmen;5;0;0;0;0;0;1;0;0;0;1;0;2;+1 Re-roll Hab, +1 Hit Point
-Fighter - Spearmen;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Fighter - Spearmen;5;1;0;0;0;0;3;1;0;1;0;0;4;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Spearmen;5;0;1;0;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Strg
-Fighter - Spearmen;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Fighter - Spearmen;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Fighter - Spearmen;5;1;0;0;0;0;3;1;0;1;0;0;8;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Spearmen;5;0;0;1;0;0;0;0;0;0;0;0;9;*Class bump, +1 Def
-Fighter - Spearmen;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Fighter - Wild Slayer;13;0;0;0;0;0;0;0;3;0;0;0;1;Armor of Anger, Furious Charge, Mighty Blow, Slayer’s Advance, 3 FATE
-Fighter - Wild Slayer;5;0;0;0;0;0;1;0;0;0;1;0;2;+1 Re-roll Hab, +1 Hit Point
-Fighter - Wild Slayer;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Fighter - Wild Slayer;5;1;0;0;0;0;3;1;0;1;0;0;4;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Wild Slayer;5;0;1;0;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Strg
-Fighter - Wild Slayer;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Fighter - Wild Slayer;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Fighter - Wild Slayer;5;1;0;0;0;0;3;1;0;1;0;0;8;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Fighter - Wild Slayer;5;0;1;0;0;0;0;0;0;0;0;0;9;*Class bump, +1 Strg
-Fighter - Wild Slayer;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Mage - Bard;16;0;0;0;0;0;0;0;3;0;0;1;1;Magic Songs, Magical Dabbler, Spell Recharge, 3 FATE
-Mage - Bard;5;0;0;0;0;0;0;0;0;0;1;1;2;+1 Re-roll Hab, New Spell.
-Mage - Bard;5;0;0;0;0;0;0;0;0;0;0;1;3;New Spell, *Class bump
-Mage - Bard;5;1;0;0;0;0;1;0;0;1;0;1;4;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Mage - Bard;5;0;0;1;0;0;0;0;0;0;0;1;5;New Spell, +1 Def
-Mage - Bard;5;0;0;0;0;0;1;0;0;0;1;1;6;+1 Re-roll Hab, +1 HP, New Spell, Class bump
-Mage - Bard;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Mage - Bard;5;1;0;0;0;0;1;0;0;1;0;1;8;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Mage - Bard;5;0;0;0;1;0;0;0;0;0;0;0;9;*Class bump, +1 Toug
-Mage - Bard;5;0;0;0;0;0;1;0;0;0;1;1;10;+1 Re-roll Hab, +1 Hit Point, New Spell
-Mage - Wizard;17;0;-1;0;0;0;0;0;2;0;0;3;1;Arcane Student, Bookish, Combat Magic , Price of Power, Spell Recharge, 2 FATE
-Mage - Wizard;5;0;0;0;0;0;0;0;0;0;1;1;2;+1 Re-roll Hab, New Spell.
-Mage - Wizard;5;0;0;0;0;0;0;0;0;0;0;1;3;New Spell, *Class bump
-Mage - Wizard;5;1;0;0;0;0;1;0;0;1;0;1;4;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Mage - Wizard;5;0;0;1;0;0;0;0;0;0;0;1;5;New Spell, +1 Def
-Mage - Wizard;5;0;0;0;0;0;1;0;0;0;1;1;6;+1 Re-roll Hab, +1 HP, New Spell, Class bump
-Mage - Wizard;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Mage - Wizard;5;1;0;0;0;0;1;0;0;1;0;1;8;+1D to Hab. +1 Hit Point, New spell, +1 Reward Level
-Mage - Wizard;5;0;0;1;0;0;0;0;0;0;0;0;9;*Class bump, +1 Def
-Mage - Wizard;5;0;0;0;0;0;1;0;0;0;1;1;10;+1 Re-roll Hab, +1 Hit Point, New Spell
-Priest - Cleric;13;0;0;0;0;0;0;0;2;0;0;2;1;Divine Power, Healer, Price of Power, Turn or Rebuke Undead, 2 FATE
-Priest - Cleric;5;0;0;0;0;0;0;0;0;0;1;1;2;+1 Re-roll Hab, New Spell.
-Priest - Cleric;5;0;0;0;0;0;0;0;0;0;0;1;3;New Spell, *Class bump
-Priest - Cleric;5;1;0;0;0;0;1;0;0;1;0;1;4;+1 Hab. +1 Hit Point, New spell, +1 Reward Level
-Priest - Cleric;5;0;0;1;0;0;0;0;0;0;0;1;5;New Spell, +1 Def
-Priest - Cleric;5;0;0;0;0;0;1;0;0;0;1;1;6;+1 Re-roll Hab, +1 HP, New Spell, Class bump
-Priest - Cleric;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Priest - Cleric;5;1;0;0;0;0;1;0;0;1;0;1;8;+1D to Hab. +1 Hit Point, New spell, +1 Reward Level
-Priest - Cleric;5;0;0;1;0;0;0;0;0;0;0;0;9;*Class bump, +1 Def
-Priest - Cleric;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Priest - Paladin;10;0;0;0;0;0;0;0;3;0;0;1;1;Balm of Faith, Hearten Allies, 3 FATE
-Priest - Paladin;5;0;0;0;0;0;0;0;0;0;1;1;2;+1 Re-roll Hab, New Spell.
-Priest - Paladin;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 FATE, *Class bump
-Priest - Paladin;5;1;0;0;0;0;3;1;0;1;0;0;4;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Priest - Paladin;5;0;0;0;1;0;0;0;0;0;0;1;5;New Spell, +1 Toug
-Priest - Paladin;5;0;0;0;0;0;1;0;0;0;1;1;6;+1 Re-roll Hab, +1 HP, New Spell, Class bump
-Priest - Paladin;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Priest - Paladin;5;1;0;0;0;0;3;1;0;1;0;0;8;+1 Hab. +3 Hit Point, +1 Inic, +1 Reward Level
-Priest - Paladin;5;0;0;0;1;0;0;0;0;0;0;0;9;*Class bump, +1 Toug
-Priest - Paladin;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Ranger - Archer;12;0;0;0;0;0;0;0;3;0;0;0;1;Bow Mastery, Use Cover, 3 FATE
-Ranger - Archer;5;0;0;0;0;1;0;0;0;0;1;0;2;+1 Re-roll Hab, +1” Move.
-Ranger - Archer;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Ranger - Archer;5;1;0;0;0;1;1;0;0;1;0;0;4;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Ranger - Archer;5;0;0;1;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Def
-Ranger - Archer;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab, +1 Hit Point, *Class bump
-Ranger - Archer;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Ranger - Archer;5;1;0;0;0;1;1;0;0;1;0;0;8;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Ranger - Archer;5;0;0;1;0;0;0;0;0;0;0;0;9;*Class bump, +1 Def
-Ranger - Archer;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Ranger - Bladesman;12;0;0;0;0;0;0;0;3;0;0;0;1;Dual Weapon Mastery, Use Cover, 3 FATE
-Ranger - Bladesman;5;0;0;0;0;1;0;0;0;0;1;0;2;+1 Re-roll Hab, +1” Move.
-Ranger - Bladesman;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Ranger - Bladesman;5;1;0;0;0;1;1;0;0;1;0;0;4;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Ranger - Bladesman;5;0;1;0;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Strg
-Ranger - Bladesman;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Ranger - Bladesman;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Ranger - Bladesman;5;1;0;0;0;1;1;0;0;1;0;0;8;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Ranger - Bladesman;5;0;0;1;0;0;0;0;0;0;0;0;9;*Class bump, +1 Def
-Ranger - Bladesman;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Thief - Acrobat;12;0;0;0;0;0;0;0;3;0;0;0;1;Dirty Strike, Spider-Climb, Tumbler, 3 FATE
-Thief - Acrobat;5;0;0;0;0;1;0;0;0;0;1;0;2;+1 Re-roll Hab, +1” Move.
-Thief - Acrobat;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Thief - Acrobat;5;1;0;0;0;1;1;0;0;1;0;0;4;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Thief - Acrobat;5;0;0;1;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Def
-Thief - Acrobat;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab, +1 Hit Point, *Class bump
-Thief - Acrobat;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Thief - Acrobat;5;1;0;0;0;1;1;0;0;1;0;0;8;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Thief - Acrobat;5;0;1;0;0;0;0;0;0;0;0;0;9;*Class bump, +1 Strg
-Thief - Acrobat;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
-Thief - Assassin;14;0;0;0;0;0;0;0;3;0;0;0;1;Assassin’s Mark, Dirty Strike, Poison, 3 FATE
-Thief - Assassin;5;0;0;0;0;1;0;0;0;0;1;0;2;+1 Re-roll Hab, +1” Move.
-Thief - Assassin;5;0;0;0;0;0;0;0;1;0;0;0;3;+1 Fate, *Class bump
-Thief - Assassin;5;1;0;0;0;1;1;0;0;1;0;0;4;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Thief - Assassin;5;0;1;0;0;0;0;0;1;0;0;0;5;+1 Fate, +1 Strg
-Thief - Assassin;5;0;0;0;0;0;1;0;0;0;1;0;6;+1 Re-roll Hab. +1 Hit Point, *Class bump
-Thief - Assassin;5;0;0;0;0;0;0;0;1;0;0;0;7;+1 Fate
-Thief - Assassin;5;1;0;0;0;1;1;0;0;1;0;0;8;+1 Hab. +1 Hit Point, +1” Move, +1Reward Level
-Thief - Assassin;5;0;0;1;0;0;0;0;0;0;0;0;9;*Class bump, +1 Def
-Thief - Assassin;5;0;0;0;0;0;1;0;1;0;1;0;10;+1 Re-roll Hab, +1 Hit Point, +1 Fate
+Acrobata;Especialista;Personagens com esse talento podem executar cartas de comando do tipo Especialista.
+Acrobata;Golpe Sujo;O personagem ganha + 1D adicional no ataque contra um inimigo no qual ele desfruta de um bônus de amigo.
+Acrobata;Ágil como Gato;Antes de sair de um combate, o personagem pode fazer um teste Habilidade ND 4. Se ele tiver sucesso, nenhum modelo ganhará ataques de oportunidade contra ele. Se ele falhar, ele ainda pode desistir de sair do combate. Além disso, sempre que algum efeito o fizer ficar Derrubado, o personagem pode fazer um teste ND 4 para ficar de pé, se falhar, ele sofre Derrubado normalmente.
+Assassino;Especialista;Personagens com esse talento podem executar cartas de comando do tipo Especialista.
+Assassino;Acertando Onde Doi;Infiltração e assassinato constituem um negócio sombrio, mas certos Ladrões se tornam mestres dele. Resultados 6 nos testes de dano desse personagem contam como 3 sucessos.
+Assassino;Golpe Sujo;O personagem ganha + 1D adicional no ataque contra um inimigo no qual ele desfruta de um bônus de amigo.
+Bárbaro;Guerreiro;Personagens com esse talento podem executar cartas de comando do tipo Guerreiro
+Bárbaro;Investida Furiosa;Personagens ou criaturas que possuem este talento adicionam + 2D ao dano em ataques bem-sucedidos feitos com bônus de investida.
+Bárbaro;Avanço do Exterminador;"Quando um personagem com essa habilidade remove o último PV de um inimigo, ele pode se mover até 3"" e atacar outro inimigo, ou simplesmente atacar um inimigo já dentro de seu alcance; ele só pode fazer isso uma vez por turno, e não pode fazê-lo fora de seu turno normal, quando derruba um inimigo com ataque de oportunidade por exemplo. Ele também pode avançar apenas 3 ”adicionais caso nenhum outro inimigo esteja ao alcance."
+Bardo;Arcanista;Personagens com este talento são capazes de lançar feitiços Arcanos
+Bardo;Sons Mágicos;Personagens com este talento canalizam sua magia em sua música, e suas canções inspiram e ajudam seus aliados. Este poder afeta personagens dentro de uma distância de 2xIntelecto. A cada turno, o Bardo pode usar uma ação especial ou seu movimento para fazer um teste de Intelecto. Os bônus concedidos permanecem em vigor até o início do próximo turno do Bardo. Cada dois sucessos marcados concedem um dos seguintes efeitos a um alvo: + 1D em Força/ + 1D em Habilidade / + 1D em Resistência / + 1D em Intelecto / +2” Movimento.
+Bardo;Especialidades;Esse personagem pode ser ativado como um Especialista.
+Caçador;Especialista;Personagens com esse talento podem executar cartas de comando do tipo Especialista.
+Caçador;Disparo Letal;Todo ataque feito com uma arma do tipo Distância com esse personagem recebe +1D no dano.
+Caçador;Cobertura Ideal;O personagem ganha + 2D, ao invés do normal + 1D, nas jogadas de defesa quando estiver com cobertura.
+Clerigo;Espiritualista;Personagens com este talento são capazes de lançar feitiços espirituais.
+Clerigo;Curandeiro;"Cada vez que este personagem for ativado, com uma ação livre, ele pode curar 1 PV de um aliado a até 2""."
+Clerigo;Estudioso;"O compromisso desse personagem com a magia o deixou fraco; ele recebe -1D em Habilidade, Força e Resistência, e recebe +1D em Intelecto."
+Druida;Espiritualista;Personagens com este talento são capazes de lançar feitiços espirituais.
+Druida;Forma Animal;O personagem gasta uma ação especial para mudar para a forma de predador primordial. Enquanto estiver nesta forma, ele ganha +2 Força, + 1 Resistência, +2 ”de Movimento e o personagem trata toda floresta e terreno difícil de pântano como terreno normal e aberto.. Ele pode permanecer nesta forma pelo tempo que desejar, mas a transformação de volta requer outra ação especial. Enquanto estiver na forma primitiva, ele não pode lançar feitiços ou coletar e carregar objetos ou tesouros, ou usar itens que possui . Quando possível, o jogador deve substituir seu modelo por outro modelo para mostrar essa mudança.
+Druida;Companheiro Animal;Personagens com este talento podem escolher um personagem de seu grupo do tipo Animal e considera-lo seu companheiro, então sempre que este personagem for ativado, seu companheiro animal também será, gastando com isso apenas 1 ativação, porém o companheiro animal não poderá ser ativado de outras formas, logo se o personagem que possui esse talento for nocauteado, seu companheiro não poderá mais ser ativado.
+Mago;Arcanista;Personagens com este talento são capazes de lançar feitiços Arcanos
+Mago;Estudioso;"O compromisso desse personagem com a magia o deixou fraco; ele recebe -1D em Habilidade, Força e Resistência, e recebe +1D em Intelecto."
+Mago;Ataque mágico;Personagens com este poder são magos manipulam a magia a sua volta para atacar inimigos a uma distância de até duas vezes seu Intelecto. Esse ataque funciona como um ataque a distância normal, com exceção de que o mago acerta usando seu Intelecto ao invés de usar sua Habilidade, e o dano causado por esse ataque é de 3D.
+Mestre de armas;Guerreiro;Personagens com esse talento podem executar cartas de comando do tipo Guerreiro
+Mestre de armas;Modo de Defesa;Quando os personagens que possuem este talento lutam com uma arma do tipo uma mão e um equipamento do traço Escudo, vários inimigos e Hordas em combate corpo a corpo não ganham bônus de amigos contra eles.
+Mestre de armas;Mestre com Lança;Personagens com este poder são especialistas em lutar com armas de haste. Eles ganham + 1D no ataque e +2” de alcance ao empunhar uma arma com traço Haste.
+Monge;Guerreiro;Personagens com esse talento podem executar cartas de comando do tipo Guerreiro
+Monge;Contra-Ataque;Personagens ou criaturas com este poder são mortais mesmo quando na defensiva. Uma vez por rodada, se uma criatura ou personagem com este poder se defender com 2+ sucessos contra um ataque de combate corpo-a-corpo, ele rola o dano como se tivesse acabado de iniciar um ataque contra seu atacante! Se a jogada inicial foi empatada, nada acontece, mas se o defensor excedeu o total de seu atacante, ele adiciona a diferença -1 ao seu total de dados de dano antes de rolar.
+Monge;Evasivo;O personagem aumenta seu Movimento em +2” e ganha + 1D para se defender de ataques à distância.
+Paladino;Guerreiro;Personagens com esse talento podem executar cartas de comando do tipo Guerreiro
+Paladino;Templario;Esse personagem pode ser ativado como um Espiritualista e é capaz de lançar feitiços espirituais.
+Paladino;Circulo Defensivo;Personagens com esse talento ganham + 2D ao usar a manobra Defesa Total (ao invés do normal + 1D), e quando eles escolherem Defesa Total, eles podem escolher outro personagem aliado dentro de 3” para também receber bônus de Defesa Total como se tivesse usado a manobra.
+Patrulheiro;Especialista;Personagens com esse talento podem executar cartas de comando do tipo Especialista.
+Patrulheiro;Aparada Dupla;"Um personagem com esta habilidade empunha duas armas corpo-a-corpo de 1 mão com maestria; recebendo o bônus de ambas as armas em seus ataque e se ele escolher a manobra de Defesa Total, ele ganha + 2D em todas as jogadas de Defesa em vez de + 1D."
+Patrulheiro;Cobertura Ideal;O personagem ganha + 2D, ao invés do normal + 1D, nas jogadas de defesa quando estiver com cobertura.
