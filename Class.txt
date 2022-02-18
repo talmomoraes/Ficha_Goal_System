@@ -32,5 +32,5 @@ Paladino;Guerreiro;Personagens com esse talento podem executar cartas de comando
 Paladino;Templario;Esse personagem pode ser ativado como um Espiritualista e é capaz de lançar feitiços espirituais.
 Paladino;Circulo Defensivo;Personagens com esse talento ganham + 2D ao usar a manobra Defesa Total (ao invés do normal + 1D), e quando eles escolherem Defesa Total, eles podem escolher outro personagem aliado dentro de 3” para também receber bônus de Defesa Total como se tivesse usado a manobra.
 Patrulheiro;Especialista;Personagens com esse talento podem executar cartas de comando do tipo Especialista.
-Patrulheiro;Aparada Dupla;"Um personagem com esta habilidade empunha duas armas corpo-a-corpo de 1 mão com maestria; recebendo o bônus de ambas as armas em seus ataque e se ele escolher a manobra de Defesa Total, ele ganha + 2D em todas as jogadas de Defesa em vez de + 1D."
+Patrulheiro;Aparada Dupla;"Um personagem com esta habilidade empunha duas armas corpo-a-corpo de 1 mão com maestria, recebendo o bônus de ambas as armas em seus ataque e se ele escolher a manobra de Defesa Total, ele ganha + 2D em todas as jogadas de Defesa em vez de + 1D."
 Patrulheiro;Cobertura Ideal;O personagem ganha + 2D, ao invés do normal + 1D, nas jogadas de defesa quando estiver com cobertura.
