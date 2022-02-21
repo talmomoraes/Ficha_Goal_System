@@ -1,6 +1,5 @@
-Classificação;Custo;Tipos;Características;Descrição
 1;0;Armadura;2;Itens usados para melhorar as defesas do usuário. Um personagem só pode usar um item do tipo Armadura. Pode ter até 2 características.
-2;0;Escudo;2;Itens usados para melhorar as defesas do usuário. Um personagem precisa de uma mão livre pra usar um escudo. Pode ter até 2 características.
-3;0;Corpo-a-corpo 1 mão;2;Armas de combate corpo-a-corpo que ocupam apenas 1 das mãos. Pode ter até 2 características.
-4;-1;Corpo-a-corpo 2 mãos;3;Armas de combate corpo-a-corpo que ocupam as 2 mãos. Pode ter até 3 características.
-5;10;Distância;3;"Essas armas podem fazer ataques com uma distância de até 15"", com 4D de Força. Pode ter até 3 características."
+2;10;Distância;3;"Essas armas podem fazer ataques com uma distância de até 15"", com 4D de Força. Pode ter até 3 características."
+3;0;Membro 1;2;Armas de combate corpo-a-corpo que ocupam apenas 1 das mãos. Pode ter até 2 características.
+3;0;Membro 2;2;Armas de combate corpo-a-corpo que ocupam apenas 1 das mãos. Pode ter até 2 características.
+3;0;Membro Extra;2;Armas de combate corpo-a-corpo que ocupam apenas 1 das mãos. Pode ter até 2 características.
