@@ -1,4 +1,3 @@
-custo;Traços;Peso;Permição;Raridade;Descrição
 2;Ablativo 1;1;1;1;Apenas para Armaduras, Concede +1 Re-rolls em testes de Resistência contra danos.
 3;Ablativo 2;2;1;2;Apenas para Armaduras, Concede +2 Re-rolls em testes de Resistência contra danos. Conta como 2 características para o limite da arma.
 4;Alcance;1;3, 4;2;"Apenas para armas corpo-a-corpo. Adiciona 4"" ao alcance dos ataques dessa arma"
