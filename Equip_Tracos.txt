@@ -1,20 +1,21 @@
-2;Ablativo 1;1;1;1;Apenas para Armaduras, Concede +1 Re-rolls em testes de Resistência contra danos.
-3;Ablativo 2;2;1;2;Apenas para Armaduras, Concede +2 Re-rolls em testes de Resistência contra danos. Conta como 2 características para o limite da arma.
-4;Alcance;1;3, 4;2;"Apenas para armas corpo-a-corpo. Adiciona 4"" ao alcance dos ataques dessa arma"
--2;Arremesso;1;5;1;"Apenas armas do tipo Distância. Seu alcance de ataque é igual a Força do usuário + 4"" e seu dano é igual a força do usuário."
-2;Defensivo 1;1;1, 2, 3, 4, 5;1;Concede +1 Re-rolls em testes de Habilidade contra acertos.
-3;Defensivo 2;2;1, 2, 3, 4, 5;2;Concede +2 Re-rolls em testes de Habilidade contra acertos. Conta como 2 características para o limite da arma.
-5;Dispersão;1;5;3;Apenas armas do tipo Distância e não pode ser combinada com nenhum outro traço. Ao invez de usar um alcance normal da arma, o ataque passa a ter um alcance de cone pequeno. Centralize a pequena ponta do modelo na base da criatura. Todos os modelos tocados pelo modelo devem se defender contra o ataque. A criatura faz um único teste de Habilidade contra a Habilidade de qualquer criatura tocada pelo cone. Os dados de dano são lançados normalmente contra qualquer alvo que falhe em defender-se. Uma vez usadas em um encontro, essa habilidade recarrega e pode ser usada novamente no mesmo encontro em um Teste de Possibilidade de +3 sucessos. Esta jogada de recarga requer uma ação especial da criatura. (Alcance: Cone Pequeno / Dano: D5)
-2;Fatal 1;1;3, 4, 5;1;Não aplicavel para Armaduras e Escudos. Concede +1 Re-rolls em testes de Força para causar dano um inimigo durante um ataque.
-3;Fatal 2;2;3, 4, 5;2;Não aplicavel para Armaduras e Escudos. Concede +2 Re-rolls em testes de Força para causar dano um inimigo durante um ataque. Conta como 2 características para o limite da arma.
-1;Fisgadora;1;3, 4, 5;1;Não aplicavel para Armaduras e Escudos. Essa arma adiciona +1 Re-roll as manobras derrubar e agarrar.
-1;Haste;1;3, 4;1;"Apenas para armas corpo-a-corpo, adiciona 2"" ao alcance dos ataques corpo-a-corpo dessa arma"
--4;Lenta;-2;3, 4, 5;1;"Não aplicavel para Armaduras e Escudos. Um personagem que tenha se movido mais de 2"" não pode atacar com essa arma. Aumenta em 3 a quantidade de características que o equipamento pode ter."
-2;Letal;1;3, 4, 5;3;Não aplicavel para Armaduras e Escudos. Danos causados com essa arma adicionam a condição Ferido ao alvo, podem ser removidos com 1 sucesso em um teste de possibilidade.
-3;Mortal;1;3, 4, 5;3;Não aplicavel para Armaduras e Escudos. Ao acertar o ataque com essa arma ela causa 1 de dano no alvo, antes mesmo da jogada de dano.
--1;Pesado 1;-1;1, 2, 3, 4, 5;1;"Reduz o movimento em 1"" de quem estiver carregando este equipamento (usando ou não). Aumenta em 2 a quantidade de características que o equipamento pode ter."
--2;Pesado 2;-2;1, 2, 3, 4, 5;2;"Reduz o movimento em 2"" de quem estiver carregando este equipamento (usando ou não). Aumenta em 3 a quantidade de características que o equipamento pode ter."
-2;Preciso 1;1;3, 4, 5;1;Não aplicavel para Armaduras e Escudos. Concede +1 Re-rolls em testes de Força ou Habilidade para acertar um inimigo durante um ataque.
-3;Preciso 2;2;3, 4, 5;2;Não aplicavel para Armaduras e Escudos. Concede +2 Re-rolls em testes de Força ou Habilidade para acertar um inimigo durante um ataque. Conta como 2 características para o limite da arma.
-2;Propulsiva;1;5;2;Apenas armas do tipo Distância. Você adicional metade da força do personagem, arredondado para baixo, aos dados para checagem de dano.
-2;Voleio;1;5;3;"Apenas armas do tipo Distância. Aumenta o alcance dessa arma em 5"", porém a torna pouco efetiva a curtas distâncias, por isso um personagem que tentar acertar um inimigo a menos de 6"" de distância sofrerá -1D na sua rolagem de acerto."
+Ablativo 1;2;1;1;1;Apenas para Armaduras, Concede +1 Re-rolls em testes de Resistência contra danos.
+Ablativo 2;3;2;1;2;Apenas para Armaduras, Concede +2 Re-rolls em testes de Resistência contra danos. Conta como 2 traços para o limite da arma.
+Alcance;4;1;2;2;"Apenas para armas corpo-a-corpo. Adiciona 4"" ao alcance dos ataques dessa arma"
+Arremesso;-4;1;3;1;"Apenas armas do tipo Distância. Seu alcance de ataque é igual a Força do usuário + 4"" e seu dano é igual a força do usuário."
+Defensivo 1;2;1;1, 2, 3;1;Concede +1 Re-rolls em testes de Habilidade contra acertos.
+Defensivo 2;3;2;1, 2, 3;2;Concede +2 Re-rolls em testes de Habilidade contra acertos. Conta como 2 traços para o limite da arma.
+Dispersão;5;4;3;3;Apenas armas do tipo Distância. Ao invés de usar um alcance normal da arma, o ataque passa a ter um alcance de cone pequeno. Centralize a pequena ponta do modelo na base da criatura. Todos os modelos tocados pelo modelo devem se defender contra o ataque. A criatura faz um único teste de Habilidade contra a Habilidade de qualquer criatura tocada pelo cone. Os dados de dano são lançados normalmente contra qualquer alvo que falhe em defender-se. Uma vez usadas em um encontro, essa habilidade recarrega e pode ser usada novamente no mesmo encontro em um Teste de Possibilidade de +2 sucessos. Esta jogada de recarga requer uma ação especial da criatura. Conta como 4 traços para o limite da arma (Alcance: Cone Pequeno / Dano: D5)
+Duas Mãos;-1;-1;3;1;Apenas para armas corpo-a-corpo. É necessário o uso de duas mão para manipular essa arma. Aumenta a quantidade de traços que o equipamento pode ter em 2.
+Fatal 1;2;1;2, 3;1;Não aplicável para Armaduras e Escudos. Concede +1 Re-rolls em testes de Força para causar dano um inimigo durante um ataque.
+Fatal 2;3;2;2, 3;2;Não aplicável para Armaduras e Escudos. Concede +2 Re-rolls em testes de Força para causar dano um inimigo durante um ataque. Conta como 2 traços para o limite da arma.
+Fisgadora;1;1;3;1;Não aplicável para Armaduras e Escudos. Essa arma adiciona +1 Re-roll as manobras derrubar e agarrar.
+Haste;1;1;3;1;"Apenas para armas corpo-a-corpo, adiciona 2"" ao alcance dos ataques corpo-a-corpo dessa arma"
+Lenta;-4;-2;2, 3;1;"Não aplicável para Armaduras e Escudos. Um personagem que tenha se movido mais de 2"" não pode atacar com essa arma. Aumenta em 3 a quantidade de traços que o equipamento pode ter."
+Letal;2;1;2, 3;3;Não aplicável para Armaduras e Escudos. Danos causados com essa arma adicionam a condição Ferido ao alvo, podem ser removidos com 1 sucesso em um teste de possibilidade.
+Mortal;3;1;2, 3;3;Não aplicável para Armaduras e Escudos. Ao acertar o ataque com essa arma ela causa 1 de dano no alvo, antes mesmo da jogada de dano.
+Pesado 1;-1;-1;1, 2, 3;1;"Reduz o movimento em 1"" de quem estiver carregando este equipamento (usando ou não). Aumenta em 2 a quantidade de traços que o equipamento pode ter."
+Pesado 2;-2;-2;1, 2, 3;2;"Reduz o movimento em 2"" de quem estiver carregando este equipamento (usando ou não). Aumenta em 3 a quantidade de traços que o equipamento pode ter."
+Preciso 1;2;1;2, 3;1;Não aplicável para Armaduras e Escudos. Concede +1 Re-rolls em testes de Força ou Habilidade para acertar um inimigo durante um ataque.
+Preciso 2;3;2;2, 3;2;Não aplicável para Armaduras e Escudos. Concede +2 Re-rolls em testes de Força ou Habilidade para acertar um inimigo durante um ataque. Conta como 2 características para o limite da arma.
+Propulsiva;2;1;2;2;Apenas armas do tipo Distância. Você adicional metade da força do personagem, arredondado para baixo, aos dados para checagem de dano.
+Voleio;2;1;2;3;"Apenas armas do tipo Distância. Aumenta o alcance dessa arma em 5"", porém a torna pouco efetiva a curtas distâncias, por isso um personagem que tentar acertar um inimigo a menos de 6"" de distância sofrerá -1D na sua rolagem de acerto."
