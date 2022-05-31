@@ -1,11 +1,9 @@
-Animal;28;4;4;4;4;6;5;0;0
-Animal Jovem;18;3;3;3;3;6;3;0;0
-Instruído;40;4;4;4;4;6;5;1;1
-Instruído Jovem;30;3;3;3;3;6;3;1;1
-Monstro Veloz;33;4;4;4;4;8;5;0;1
-Monstro Veloz Jovem;23;3;3;3;3;8;3;0;1
-Monstro Bruto;33;4;4;5;4;6;5;0;1
-Monstro Bruto Jovem;23;3;3;4;3;6;3;0;1
-Horda Inferior;14;2;2;2;2;6;5;0;1
-Horda;22;3;3;3;3;6;5;0;1
-Horda Superior;30;4;4;4;4;6;5;0;1
+Hábil;23;4;4;4;4;5;5;0;1
+Hábil Jovem;13;3;3;3;3;5;3;0;1
+Instruído;30;4;4;4;4;5;5;1;1
+Instruído Jovem;20;3;3;3;3;5;3;1;1
+Salvagem;18;4;4;4;4;5;5;0;0
+Selvagem Jovem;8;3;3;3;3;5;3;0;0
+Horda Inferior;4;2;2;2;2;5;5;0;1
+Horda;12;3;3;3;3;5;5;0;1
+Horda Superior;20;4;4;4;4;5;5;0;1
